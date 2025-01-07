@@ -15,6 +15,9 @@ public class intrechner {
 		int division = zahl1 / zahl2;
 		int modulo = zahl1 % zahl2;
 		
+		
+		
+		
 		//Ausgabe
 		System.out.println("addition: " + summe);
 		System.out.println("subtraktion: " + differenz);

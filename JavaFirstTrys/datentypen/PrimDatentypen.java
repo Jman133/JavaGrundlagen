@@ -10,6 +10,10 @@ public class PrimDatentypen {
 		boolean d = true;
 		boolean e = !false;
 		float f = 3.7f;
+		double g = 7.4;
+		
+		
+		
 		System.out.println(a);
 
 		System.out.println(b);
@@ -19,6 +23,7 @@ public class PrimDatentypen {
 		System.out.println(e);
 
 		System.out.println(f);
+		System.out.println(g);
 	}
 
 }
