@@ -5,7 +5,7 @@ import java.util.LinkedList;
 public class hauptprogramm {
 
 	public static void main(String[] args) {
-	  LinkedList list = new LinkedList();
+	  LinkedList<Integer> list = new LinkedList<Integer>();
 	  list.add(10);
 	  list.add(20);
 
